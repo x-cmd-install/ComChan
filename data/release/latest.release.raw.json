@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2560431,
       "digest": "sha256:a600e37f3023960d413a5921e60e1cb3dcbc82512466f92f98069fe305d6e1a7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-26T06:40:46Z",
       "updated_at": "2026-08-26T06:40:46Z",
       "browser_download_url": "https://github.com/Vaishnav-Sabari-Girish/ComChan/releases/download/v0.15.0/comchan-x86_64-pc-windows-msvc.zip"
