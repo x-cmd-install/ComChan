@@ -4,7 +4,7 @@
 
 A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more
 
-[![x-cmd/install — ComChan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ComChan.svg)](https://x-cmd.com/install/ComChan)
+[![x-cmd/install — ComChan Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ComChan.svg)](https://x-cmd.com/install/ComChan)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **6,475** lines of code across **39** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-08-26)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **6,475** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 3 · **Commits**: 409
+- **Releases**: 43 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 3 · **Commits**: 410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 4 | 0 | 2 | 0 | 37 |
-| last60d | 2026-07-24 | 1 | 4 | 0 | 2 | 0 | 52 |
-| 90d | 2026-06-24 | 3 | 8 | 0 | 7 | 2 | 66 |
-| last180d | 2026-03-26 | 28 | 39 | 0 | 37 | 3 | 244 |
-| 360d | 2025-09-27 | 29 | 43 | 0 | 52 | 3 | 264 |
-| last720d | 2024-10-02 | 43 | 43 | 0 | 53 | 3 | 409 |
+| 30d | 2026-08-24 | 1 | 2 | 0 | 1 | 0 | 38 |
+| last60d | 2026-07-25 | 1 | 4 | 0 | 2 | 0 | 53 |
+| 90d | 2026-06-25 | 3 | 8 | 0 | 7 | 2 | 67 |
+| last180d | 2026-03-27 | 28 | 39 | 0 | 37 | 3 | 245 |
+| 360d | 2025-09-28 | 29 | 43 | 0 | 52 | 3 | 265 |
+| last720d | 2024-10-03 | 43 | 43 | 0 | 53 | 3 | 410 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for ComChan lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:29:36Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:30:48Z._

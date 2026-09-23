@@ -4,7 +4,7 @@
 
 A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more
 
-[![x-cmd/install — ComChan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ComChan.svg?lang=zh)](https://x-cmd.com/install/ComChan)
+[![x-cmd/install — ComChan Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ComChan.svg?lang=zh)](https://x-cmd.com/install/ComChan)
 
 ## 安装
 
@@ -33,7 +33,7 @@ x install ComChan
 ## 发布
 
 - **最新版本**: `v0.15.0` (2026-08-26)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 10 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install ComChan
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 43 · **开放 PR**: 0 · **已关闭 issue**: 53 · **开放 issue**: 3 · **提交数**: 409
+- **发布数**: 43 · **已合并 PR**: 43 · **开放 PR**: 0 · **已关闭 issue**: 53 · **开放 issue**: 3 · **提交数**: 410
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 4 | 0 | 2 | 0 | 37 |
-| last60d | 2026-07-24 | 1 | 4 | 0 | 2 | 0 | 52 |
-| 90d | 2026-06-24 | 3 | 8 | 0 | 7 | 2 | 66 |
-| last180d | 2026-03-26 | 28 | 39 | 0 | 37 | 3 | 244 |
-| 360d | 2025-09-27 | 29 | 43 | 0 | 52 | 3 | 264 |
-| last720d | 2024-10-02 | 43 | 43 | 0 | 53 | 3 | 409 |
+| 30d | 2026-08-24 | 1 | 2 | 0 | 1 | 0 | 38 |
+| last60d | 2026-07-25 | 1 | 4 | 0 | 2 | 0 | 53 |
+| 90d | 2026-06-25 | 3 | 8 | 0 | 7 | 2 | 67 |
+| last180d | 2026-03-27 | 28 | 39 | 0 | 37 | 3 | 245 |
+| 360d | 2025-09-28 | 29 | 43 | 0 | 52 | 3 | 265 |
+| last720d | 2024-10-03 | 43 | 43 | 0 | 53 | 3 | 410 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ ComChan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:29:36Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:30:48Z._
