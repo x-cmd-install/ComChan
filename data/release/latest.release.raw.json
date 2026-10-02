@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2139592,
       "digest": "sha256:6a95ecad54c6e8e6f208794184ac2985781653f1a3b6f9c8f32bf9cfa9272771",
-      "download_count": 50,
+      "download_count": 53,
       "created_at": "2026-08-26T06:40:46Z",
       "updated_at": "2026-08-26T06:40:47Z",
       "browser_download_url": "https://github.com/Vaishnav-Sabari-Girish/ComChan/releases/download/v0.15.0/comchan-x86_64-unknown-linux-gnu.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:b4c23aba7349290e312878c81f43856c2a0ab736c11af7e0f8c3bc47cef66dc3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-26T06:40:46Z",
       "updated_at": "2026-08-26T06:40:47Z",
       "browser_download_url": "https://github.com/Vaishnav-Sabari-Girish/ComChan/releases/download/v0.15.0/comchan-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 395,
       "digest": "sha256:3c472886b7e5f31880fc73c8f72ebb455d126610bcc4f1110f90be127c590371",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-26T06:40:47Z",
       "updated_at": "2026-08-26T06:40:47Z",
       "browser_download_url": "https://github.com/Vaishnav-Sabari-Girish/ComChan/releases/download/v0.15.0/sha256.sum"
