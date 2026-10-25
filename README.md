@@ -33,7 +33,7 @@ Total: **6,475** lines of code across **39** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.15.0` (2026-08-26)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **6,475** lines of code across **39** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 4 · **Commits**: 449
+- **Releases**: 43 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 4 · **Commits**: 450
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 1 | 36 |
-| last60d | 2026-08-25 | 1 | 1 | 0 | 1 | 1 | 83 |
-| 90d | 2026-07-26 | 1 | 4 | 0 | 2 | 1 | 91 |
-| last180d | 2026-04-27 | 25 | 35 | 0 | 32 | 4 | 263 |
-| 360d | 2025-10-29 | 29 | 43 | 0 | 52 | 4 | 302 |
-| last720d | 2024-11-03 | 43 | 43 | 0 | 53 | 4 | 449 |
+| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 1 | 28 |
+| last60d | 2026-08-26 | 1 | 1 | 0 | 1 | 1 | 64 |
+| 90d | 2026-07-27 | 1 | 4 | 0 | 2 | 1 | 92 |
+| last180d | 2026-04-28 | 25 | 35 | 0 | 32 | 4 | 250 |
+| 360d | 2025-10-30 | 29 | 43 | 0 | 52 | 4 | 302 |
+| last720d | 2024-11-04 | 43 | 43 | 0 | 53 | 4 | 450 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for ComChan lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:59:05Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:02:05Z._
